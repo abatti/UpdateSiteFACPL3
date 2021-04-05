@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/FACPL3FeatureProj_1.1.3.jar" id="FACPL3FeatureProj" version="1.1.3">
+      <category name="FACPL3Category"/>
+   </feature>
+   <category-def name="FACPL3Category" label="FACPL3Category"/>
+</site>
